@@ -1,26 +1,64 @@
 <!-- Animated Header -->
 <h1 align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+%5BJan+Salazar%5D;Full-Stack+Developer;Backend+Focused+%7C+Clean+Code+Advocate">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+%5BJan+Salazar%5D;Full-Stack+Developer;Backend+Focused+%7C+Clean+Code+Advocate">
-  <img alt="Typing Animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+%5BJan+Salazar%5D;Full-Stack+Developer;Backend+Focused+%7C+Clean+Code+Advocate">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Jan+Salazar;Full-Stack+Developer;Laravel+%7C+PHP+%7C+Python+%7C+Java">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Jan+Salazar;Full-Stack+Developer;Laravel+%7C+PHP+%7C+Python+%7C+Java">
+  <img alt="Typing Animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Jan+Salazar;Full-Stack+Developer;Laravel+%7C+PHP+%7C+Python+%7C+Java">
 </picture>
 </h1>
 
 ---
 
-### ⚙️ Tech Stack 
+### ⚙️ Tech Stack
 <div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,laravel,python,java,mysql,html,css&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php,laravel,python,java,mysql,html,css&theme=light">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,java,mysql,html,css&theme=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php&theme=light">
+  <img src="https://skillicons.dev/icons?i=php&theme=light" />
 </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=laravel&theme=light">
+  <img src="https://skillicons.dev/icons?i=laravel&theme=light" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python&theme=light">
+  <img src="https://skillicons.dev/icons?i=python&theme=light" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java&theme=light">
+  <img src="https://skillicons.dev/icons?i=java&theme=light" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql&theme=light">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html&theme=light">
+  <img src="https://skillicons.dev/icons?i=html&theme=light" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=css&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=css&theme=light">
+  <img src="https://skillicons.dev/icons?i=css&theme=light" />
+</picture>
+
 </div>
 
 ---
 
-### 📊 GitHub Stats 
+### 📊 GitHub Stats
 <div align="center">
 
 <picture>
@@ -39,11 +77,13 @@
 
 ---
 
-### 📬 Connect With Me 
+### 📬 Connect With Me
 <div align="center">
+<a href="https://t.me/urzeki">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Telegram-FFFFFF?style=flat&logo=telegram&logoColor=000000">
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Telegram-000000?style=flat&logo=telegram&logoColor=FFFFFF">
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-000000?style=flat&logo=telegram&logoColor=FFFFFF">
 </picture>
+</a>
 </div>
