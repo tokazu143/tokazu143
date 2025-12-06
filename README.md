@@ -5,12 +5,6 @@
 
 ---
 
-### 👨‍💻 About Me
-- Building with **Laravel, PHP, Python, Java**
-- Connect with me on Telegram: **[@urzeki](https://t.me/urzeki)**
-
----
-
 ### 🛠️ Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,python,java,mysql,html,css" />
@@ -20,7 +14,6 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tokazu143&show_icons=false&hide_border=true&theme=calm" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tokazu143&theme=calm&hide_border=true" />
 </div>
 
