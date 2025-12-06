@@ -86,4 +86,11 @@
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-000000?style=flat&logo=telegram&logoColor=FFFFFF">
 </picture>
 </a>
+  <a href="https://www.tiktok.com/@kkkudos">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TikTok-FFFFFF?style=flat&logo=tiktok&logoColor=000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=FFFFFF">
+      <img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=FFFFFF">
+    </picture>
+  </a>
 </div>
